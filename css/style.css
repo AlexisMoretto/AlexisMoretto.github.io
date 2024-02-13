@@ -1,6 +1,22 @@
-body{
-    background-image: url(/image/programming-583923_1280.jpg) ;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
+
+.parcours{
+    display: flex;
+    flex-direction: column;
+
+}
+.footer__all{
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    
+
+
+}
+.footer__text{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.competence{
+    
 }
