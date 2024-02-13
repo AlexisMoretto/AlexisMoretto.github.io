@@ -1,3 +1,6 @@
-*{
+body{
     background-image: url(/image/programming-583923_1280.jpg) ;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
