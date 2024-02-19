@@ -22,6 +22,7 @@
     border: solid 1px black;
     margin: 0 0 10px 0;   
 }
+
 .footer__all{
     display: flex;
     align-items: stretch;
@@ -52,7 +53,11 @@ li {
     margin : 15px;
     padding: 15px;
     border: solid black 1px;
-    flex: 1;    
+    flex: 1;  
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
 }
 .line {
     display: flex;
@@ -60,4 +65,16 @@ li {
 }
 footer{
     display: flex;
+}
+.ITGA{
+    width: 200px;
+}
+.Sanofi{
+    width: 200px;
+}
+.Cenexi{
+    width: 300px;
+}
+.Pherecydes {
+    width: 400px;
 }
